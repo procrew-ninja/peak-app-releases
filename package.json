@@ -1,13 +1,13 @@
 {
   "name": "peak",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "peak app - time tracking application",
   "author": "ProCrew",
   "license": "MIT",
   "homepage": "https://www.procrew.pro/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/procrew-ninja/peak-app-releases.git"
+    "url": "https://github.com/procrew-ninja/peak-app-releases"
   },
   "publish": {
     "provider": "github",
