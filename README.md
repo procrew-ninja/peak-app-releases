@@ -1,7 +1,7 @@
 (( peak-app-releases
 
 ### Windows
-(Version 0.0.17](https://github.com/procrew-ninja/peak-app-releases/releases/download/v0.0.17-beta/PeakApp-Beta-Setup-0.0.17-beta.exe)
+[Version 0.0.17](https://github.com/procrew-ninja/peak-app-releases/releases/download/v0.0.17-beta/PeakApp-Beta-Setup-0.0.17-beta.exe)
 
 ### Mac
 #### Intel
