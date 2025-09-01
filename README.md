@@ -1,14 +1,14 @@
 # PeakTime Releases
 
 ### Windows
-[Version 1.1.2](https://github.com/procrew-ninja/peak-app-releases/releases/download/v1.1.2/PeakApp-Beta-Setup-1.1.2.exe)
+[Version 2.0.0](https://github.com/procrew-ninja/peak-app-releases/releases/download/v2.0.0/PeakApp-Beta-Setup-2.0.0.exe)
 
 ### Mac
 #### Intel
-[Version 1.1.2](https://github.com/procrew-ninja/peak-app-releases/releases/download/v1.1.2/PeakApp-Beta-1.1.2.dmg)
+[Version 2.0.0](https://github.com/procrew-ninja/peak-app-releases/releases/download/v2.0.0/PeakApp-Beta-2.0.0-mac.zip)
 
 #### Arm
-[Version 1.1.2](https://github.com/procrew-ninja/peak-app-releases/releases/download/v1.1.2/PeakApp-Beta-1.1.2-arm64.dmg)
+[Version 2.0.0](https://github.com/procrew-ninja/peak-app-releases/releases/download/v2.0.0/PeakApp-Beta-2.0.0-arm64-mac.zip)
 
 ### Linux
-[Version 1.1.2](https://github.com/procrew-ninja/peak-app-releases/releases/download/v1.1.2/PeakApp-Beta-1.1.2.AppImage)
+[Version 2.0.0](https://github.com/procrew-ninja/peak-app-releases/releases/download/v2.0.0/PeakApp-Beta-2.0.0.AppImage)
